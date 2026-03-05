@@ -1,0 +1,4 @@
+For Evaluation - Try with:
+1) Logic
+2) RAGAS
+3) DEEPEVAL
